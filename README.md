@@ -1,3 +1,3 @@
 # Scrolling App
 ### App screenshot
-![](./AddedButton.png)
+![](./Homework.png)
