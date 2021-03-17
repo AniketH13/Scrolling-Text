@@ -1,3 +1,3 @@
 # Scrolling App
 ### App screenshot
-![](./ScrollView.png)
+![](./SubheadingScrolling.png)
